@@ -56,5 +56,3 @@ Contributions are welcome! If you have any suggestions, enhancements, or bug fix
 None
 
 ---
-
-Feel free to customize the placeholders and add any additional sections or details as needed for your project.
